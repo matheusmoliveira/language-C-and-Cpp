@@ -8,6 +8,8 @@ void main(){
 	//Permite usar acentos
 	setlocale (LC_ALL,"Portuguese");
 
+	//OBS: Exercício da aula 4, 5, 6 e 7
+
 	/*Crie um algoritmo que leia 3 notas e calcule a média entre elas.
 	Se o valor for maior que 7 informe que o aluno foi aprovado.
 	senão foi reprovado.*/
