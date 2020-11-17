@@ -14,7 +14,7 @@ void main(){
 		printf("%d\n", a);
 		
 		//Incremento
-		a++; //a = a + 1;
+		a++;	//a = a + 1;
 	}
 	
 	//Contagem Regressiva
@@ -24,7 +24,7 @@ void main(){
 		printf("%d\n", b);
 		
 		//decremento
-		b--; //b = b - 1;
+		b--;	//b = b - 1;
 	}
 	
 	//Pausa o programa após executar
